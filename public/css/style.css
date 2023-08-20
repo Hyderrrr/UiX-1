@@ -1,0 +1,45 @@
+
+* {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+    background-image: url('/public/assets/new.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.fa {
+    padding: 2%;
+    margin: 0 2% 0 2%;
+    border-radius: 50%;
+    width: 30px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #ffffff;
+    color: rgb(22, 22, 22);
+}
+.fa-instagram {
+    background: #efefef;
+    color: rgb(26, 25, 25);
+}
+.fa-twitter {
+    background: #efefef;
+    color: rgb(26, 25, 25);
+}
+.fa-google {
+    background: #efefef;
+    color: rgb(26, 25, 25);
+}
+
+.caros {
+    max-height: 40%;
+}
